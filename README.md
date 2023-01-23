@@ -1,0 +1,2 @@
+Nesse projeto irei apenas testar minhas abilidades criando uma receita. Nele irei ver o quanto estou aprendendo e o tempo que irei levar para fazer um simples texto.
+Acho que tenho absorvido muito bem as lições. Acho que irá ser fácil
