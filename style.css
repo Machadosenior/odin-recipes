@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.confirm{
+    background-color: blue;
+    color:red;
+}
+
+.cancelar{
+    color:blue;
+}
+.fundo{
+    background-color: blue;
+}
